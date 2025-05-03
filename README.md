@@ -4,7 +4,8 @@ Begleitmaterial zur Masterarbeit
 
 Dieses Repository stellt ergänzende Materialien zur gleichnamigen Masterarbeit bereit. Ziel ist es, zusätzliche Ressourcen wie hochauflösende Abbildungen, Quellcodebeispiele, Modellierungsdateien oder begleitende Artefakte zur Verfügung zu stellen, die in der gedruckten Fassung nur verkürzt, verkleinert oder auszugsweise enthalten sind.
 
-Inhalt
+Inhalt:
+
 /images/
 Enthält zentrale Abbildungen der Arbeit in größerer, hochauflösender Darstellung. Dies betrifft insbesondere Diagramme, Tabellen und Grafiken, die in der Druckversion ggf. schwer lesbar sind.
 
